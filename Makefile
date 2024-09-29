@@ -24,7 +24,7 @@ HELP_FUN = \
 		print "\n"; \
 	}
 
-# This gives the ability to set requird arguments for a target.
+# This gives the ability to set required arguments for a target.
 # Example:
 #   my-target: guard-myarg 
 #     Will exit 1 with message "Required argument myarg not set!" when myarg is not passed to my-target.
